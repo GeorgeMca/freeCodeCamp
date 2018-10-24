@@ -8,9 +8,9 @@ title: common terms every Linux user should know.
 
 * <strong>Shell:</strong>  this is the program that reads your command input and runs the specified commands. The dollar sign (`$’) preceding the cursor is called the shell prompt; it tells you that the system is ready and waiting for inputs in the form of commands.
 
-* <strong>CLI:</strong>  stands for <em>Command Line Interface</em>. Its the simple user interface that provides the services needed by the user to interact with Linux OS using text commands. It protect the user from having to know intricate hardware details.
+* <strong>CLI:</strong>  stands for <em>Command Line Interface</em>. Its the simple user interface that provides the services needed by the user to interact with Linux OS using text commands. It protects the user from having to know intricate hardware details.
 
-* <strong>GUI:</strong>  stands for graphic user interface. It is the part of the Linux system that comprises windows, icon, pictures (graphics in general), that make point and click possible.
+* <strong>GUI:</strong>  stands for graphic user interface. It is the part of the Linux system that comprises windows, icon, pictures (graphics in general), that make point and click operations possible.
 
 * <strong>Terminal:</strong>  is an application that is used to access the Linux shell.
 
