@@ -53,7 +53,7 @@ console.log(getGrades(90, 100, 75, 40, 89, 95));
 
 There is a little problem, it's not recommended to use slice in the arguments object (optimization reasons)...
 
-> **Important**: You should not slice on arguments because it prevents optimizations in JavaScript engines (V8 for example). Instead, try constructing a new array by iterating through the arguments object.
+> **Important**: You should not slice on arguments because it prevents optimizations in the JavaScript engines (V8 for example). Instead, try constructing a new array by iterating through the arguments object.
 > 
 > _by_ **_Mozilla Developer Network_** <a href='https://developer.mozilla.org/ca/docs/Web/JavaScript/Reference/Functions/arguments' target='_blank' rel='nofollow'>(reference)<a>
 
