@@ -42,3 +42,9 @@ pwd (Print Working Directory) - This command lists the directory you are current
 ```unix
 pwd
 ```
+
+mkdir (Make Directory) - The mkdir command allows you to create a directory(folder) within the current directory with a specified name.
+
+```unix
+mkdir new_directory
+```
